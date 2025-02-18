@@ -1,0 +1,13 @@
+﻿Microcontroller,ESP32,Module (ESP32-WROOM-32),Datasheet,1,Central processing unit with built-in Wi-Fi, Bluetooth, and GPIO pins.,₹415,Amazon India
+Ethernet Module,W5500,Module,Datasheet,1,Provides primary internet connectivity (700 Mbps).,₹664,Robu.in
+Camera Module,OV2640,Module,Datasheet,1,High-resolution camera for visual perception and facial recognition.,₹996,Robu.in
+Microphone,INMP441,MEMS Microphone,Datasheet,1,Digital MEMS microphone for audio input.,₹291,Robu.in
+Speaker,8Ω, 0.5W,Round (45mm),Datasheet,1,Outputs processed audio responses.,₹166,Amazon India
+Motor Driver,L298N,Module,Datasheet,1,Controls motors for the robotic arm (&quot;hands&quot;).,₹332,Amazon India
+Robotic Arm,SG90 Servo Motors,N/A,Datasheet,4,Four servos for multi-degree-of-freedom movement (e.g., picking up objects).,₹1,660,Amazon India
+Voltage Regulator,AMS1117-3.3V,TO-252 (SOT-223),Datasheet,1,Steps down 5V to 3.3V for ESP32 and peripherals.,₹42,Robu.in
+Decoupling Capacitors,10µF, 0.1µF,0805 (SMD),Datasheet,2 each,Stabilizes power supply for ESP32 and other components.,₹8 (total),Robu.in
+Power Supply,5V DC Adapter,Barrel Jack,Datasheet,1,Provides 5V power to the system.,₹498,Amazon India
+PCB Board,Custom PCB,N/A,N/A,1,Custom-designed PCB to integrate all components.,₹830 (prototype),JLCPCB
+Resistors,10kΩ,0805 (SMD),Datasheet,5,Pull-up/pull-down resistors for GPIO pins.,₹4 (total),Robu.in
+LEDs,Red/Green LEDs,0805 (SMD),Datasheet,2,Status indicators for power and connectivity.,₹8 (total),Robu.in
